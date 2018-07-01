@@ -1,0 +1,3 @@
+127.0.0.1 - - [08/Jun/2018:00:31:49 +0000] "GET /Restaurant/noodles HTTP/1.1" 200 59 http-bio-8080-exec-1 37
+127.0.0.1 - - [08/Jun/2018:01:39:15 +0000] "GET /Restaurant/noodles HTTP/1.1" 200 58 http-bio-8080-exec-1 34
+0:0:0:0:0:0:0:1 - - [08/Jun/2018:01:39:29 +0000] "GET / HTTP/1.1" 404 - http-bio-8080-exec-3 0
